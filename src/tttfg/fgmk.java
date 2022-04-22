@@ -19,6 +19,7 @@ public class fgmk {
 		System.out.print(driver.getTitle());
 		driver.navigate().back();
 		driver.navigate().forward();
+		//gygh
 //driver.close();
 //System.exit(0);
 	}
